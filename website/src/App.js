@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import axios from 'axios';
+import 'bootstrap/dist/css/bootstrap.css';
+import { Col,Button, Form, FormGroup, Label, Input, FormText } from 'reactstrap';
+import { ToastContainer, toast } from 'react-toastify';
 
 class App extends Component {
     constructor(props)
@@ -35,9 +38,11 @@ class App extends Component {
         })
             .then(response => {
                 console.log(response, 'Signature added!');
+                toast("Guestbook has been submitted!")
             })
             .catch(err => {
                 console.log(err, 'Signature not added, try again');
+                toast("Error happened!")
             });
 
         this.setState({
@@ -45,42 +50,61 @@ class App extends Component {
             MessageofGuest: "",
         });
     };
+    notify = () => toast("Wow so easy !");
   render() {
     return (
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to Reactor Group</h1>
-            <h4 className="App-Subtitle">credit by : @ndoaja 2017</h4>
+          <h1 className="App-title">Guest Management System</h1>
+            <h4 className="App-Subtitle">React + Node + Mongo</h4>
 
         </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
 
-              <input
-                  onChange={this.handleSignatureOfGuest}
-                  name="SignatureOfGuest"
-                  className="NameinputForm"
-                  value={this.state.SignatureOfGuest}
-                  placeholder="Enter your name"
-              />
-              <textarea
-                  onChange={this.handleMessageofGuest}
-                  name="MessageofGuest"
-                  className="MessageinputForm"
-                  value={this.state.MessageofGuest}
-                  placeholder="Type a message"
-              />
+          <Form>
+              <FormGroup>
+                  <Label for="exampleEmail" sm={2}>Name</Label>
+                  <Col sm={10}>
+                  <input
+                      bsSize="lg"
+                      value={this.state.SignatureOfGuest}
+                      onChange={this.handleSignatureOfGuest}
+                      name="SignatureOfGuest"
+                      id="SignatureOfGuest"
+                  />
+                  </Col>
+              </FormGroup>
 
-              <button
-                  className="submitbuttonguestbook"
-                  type="submit"
-                  onClick={this.addToGuestBook}
-              >
-                  Submit to Guestbook<i className="GuestBookButton2" aria-hidden="true" />
-              </button>
+              <FormGroup>
+                  <Label for="exampleMessage" sm={2}>Message</Label>
+                  <Col sm={10}>
+                  <Input
+                      bsSize="lg"
+                      value={this.state.MessageofGuest}
+                      onChange={this.handleMessageofGuest}
+                      name="MessageofGuest"
+                      id="MessageofGuest" />
+                  </Col>
+              </FormGroup>
+              <FormGroup>
+                  <Label for="btn" sm={2}></Label>
+                  <Col sm={10}>
+                  <Button
+                      color="success"
+                      type="submit"
+                      onClick={this.addToGuestBook}
+                  >
+                      Submit to Guestbook
+                  </Button>
+                  <ToastContainer />
+                  </Col>
+              </FormGroup>
+          </Form>
 
+
+            <footer  className="App-footer">
+                Copyright by @ndoaja 2017 - MIT License
+            </footer>
       </div>
 
     );
