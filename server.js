@@ -48,7 +48,7 @@ app.use(function(req, res, next) {
     // to the API (e.g. in case you use sessions)
     res.header('Access-Control-Allow-Credentials', true);
 
-
+    res.json({success : "Updated Successfully", status : 200});
 
     next();
 
