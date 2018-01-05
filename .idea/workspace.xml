@@ -211,7 +211,7 @@
       <option name="presentableId" value="Default" />
       <updated>1515114893667</updated>
       <workItem from="1515114895640" duration="2627000" />
-      <workItem from="1515123120303" duration="23042000" />
+      <workItem from="1515123120303" duration="23061000" />
     </task>
     <task id="LOCAL-00001" summary="delete file">
       <created>1515114935306</created>
@@ -304,11 +304,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515148972376</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add axios explicit dependency">
+      <created>1515150097487</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1515150097487</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25669000" />
+    <option name="totallyTimeSpent" value="25688000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
@@ -355,7 +362,8 @@
     <MESSAGE value="fix backbone header controller )CROS)" />
     <MESSAGE value="fix backbone header controller )CROS V3" />
     <MESSAGE value="Fix React Website UI - &gt; Implement Toastify and ReactStrapping" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix React Website UI - &gt; Implement Toastify and ReactStrapping" />
+    <MESSAGE value="Add axios explicit dependency" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add axios explicit dependency" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
