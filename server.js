@@ -34,15 +34,19 @@ routes(app); //register the route
 app.listen(port);
 
 app.use(function(req, res) {
-    var allowedOrigins = ['http://127.0.0.1:3000', 'http://localhost:3000', 'http://127.0.0.1:8080', 'http://localhost:8080'];
-    var origin = req.headers.origin;
-    if(allowedOrigins.indexOf(origin) > -1){
-        res.setHeader('Access-Control-Allow-Origin', origin);
-    }
-    //res.header('Access-Control-Allow-Origin', 'http://127.0.0.1:8020');
-    res.header('Access-Control-Allow-Methods', 'GET, OPTIONS');
-    res.header('Access-Control-Allow-Methods', 'POST, OPTIONS');
-    res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization');
+    // var allowedOrigins = ['http://127.0.0.1:3000', 'http://localhost:3000', 'http://127.0.0.1:8080', 'http://localhost:8080'];
+    // var origin = req.headers.origin;
+    // if(allowedOrigins.indexOf(origin) > -1){
+    //     res.setHeader('Access-Control-Allow-Origin', origin);
+    // }
+    // Website you wish to allow to connect
+    res.header('Access-Control-Allow-Origin', '*');
+    // Request methods you wish to allow
+    res.header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
+    // Request headers you wish to allow
+    res.header('Access-Control-Allow-Headers', 'X-Requested-With,content-type');
+    // Set to true if you need the website to include cookies in the requests sent
+    // to the API (e.g. in case you use sessions)
     res.header('Access-Control-Allow-Credentials', true);
     res.status(404).send({url: req.originalUrl + ' not found'})
 });
