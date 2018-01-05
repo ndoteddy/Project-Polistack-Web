@@ -1,5 +1,5 @@
-
-
+var dotenv = require('dotenv');
+const myEnv = dotenv.config();
 var express = require ('express'),
     app = express (),
     port = process.env.PORT || 3000,
@@ -9,7 +9,9 @@ var express = require ('express'),
 
 // mongoose instance connection url connection
 mongoose.Promise = global.Promise;
-const url = 'mongodb://localhost/signatures';
+//const url = 'mongodb://localhost/signatures';
+const url = 'mongodb://'+process.env.DB_USER+':'+process.env.DB_PASS+process.env.DB_URL;
+console.log(url);
 //====MONGOOSE CONNECT===//
 mongoose.connect(url, function (err, db) {
     if (err) {
