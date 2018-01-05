@@ -51,7 +51,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Welcome to Reactor Group</h1>
-            <h4 className="App-Subtitle">@ndoaja,@yohanes,@agustinus</h4>
+            <h4 className="App-Subtitle">credit by : @ndoaja 2017</h4>
 
         </header>
         <p className="App-intro">
