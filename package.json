@@ -1,0 +1,33 @@
+{
+  "name": "simplenodejsapps",
+  "version": "1.0.0",
+  "description": "restful guestbookapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "no test specified"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndoteddy/simplenodejsapps.git"
+  },
+  "keywords": [
+    "restful",
+    "simplenodejs",
+    "nando",
+    "api"
+  ],
+  "author": "nandoteddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndoteddy/simplenodejsapps/issues"
+  },
+  "homepage": "https://github.com/ndoteddy/simplenodejsapps#readme",
+  "devDependencies": {
+    "nodemon": "^1.14.7"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.0-rc2"
+  }
+}
