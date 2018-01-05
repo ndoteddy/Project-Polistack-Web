@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9005f014-3d5c-496c-8c48-30036eae1f2c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/website/README.md" afterPath="$PROJECT_DIR$/website/README.md" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,12 +18,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="125">
-                <caret line="5" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="94" selection-end-column="44" />
+              <first_editor relative-caret-position="736">
+                <caret line="104" column="0" lean-forward="true" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -61,12 +61,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/website/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-557">
-                <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+              <first_editor relative-caret-position="343">
+                <caret line="72" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -104,8 +104,8 @@
         <option value="$PROJECT_DIR$/website/src/App.js" />
         <option value="$PROJECT_DIR$/website/src/App.css" />
         <option value="$PROJECT_DIR$/website/package.json" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/website/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -205,7 +205,7 @@
       <option name="presentableId" value="Default" />
       <updated>1515114893667</updated>
       <workItem from="1515114895640" duration="2627000" />
-      <workItem from="1515123120303" duration="26265000" />
+      <workItem from="1515123120303" duration="26344000" />
     </task>
     <task id="LOCAL-00001" summary="delete file">
       <created>1515114935306</created>
@@ -340,11 +340,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515152974762</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Update Readme Files">
+      <created>1515153323983</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1515153323983</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28892000" />
+    <option name="totallyTimeSpent" value="28971000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
@@ -393,7 +400,8 @@
     <MESSAGE value="Fix React Website UI - &gt; Implement Toastify and ReactStrapping" />
     <MESSAGE value="Add axios explicit dependency" />
     <MESSAGE value="Fix readme file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix readme file" />
+    <MESSAGE value="Update Readme Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Readme Files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -529,22 +537,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/website/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="125">
-            <caret line="5" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="94" selection-end-column="44" />
+          <first_editor relative-caret-position="343">
+            <caret line="72" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/README.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-557">
-            <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+          <first_editor relative-caret-position="736">
+            <caret line="104" column="0" lean-forward="true" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

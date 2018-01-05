@@ -38,7 +38,8 @@ Thanks
 * [Objective](#objective)
 * [Idea](#idea)
 * [Prerequisite](#prerequisite)
-* [SupportedBy](#supportedby)
+* [Online Site](#onlinesite)
+* [Production URL](#production-url)
 
 ## Objective
 
@@ -77,7 +78,7 @@ Guest Management System
     - WebStorm - https://www.jetbrains.com/webstorm/
     - Docker - https://www.docker.com/
     - Gulp - https://gulpjs.com/
-    
+    - Postman - https://www.getpostman.com/
     
 1. Map this repository (Clone or Fork)
 3. Please inform us on Issue page if need anything help
@@ -86,10 +87,18 @@ Npm package manager will auto download for u according to this json package
 5. Hosting
     - MongoDB - MLAB        https://mlab.com/home
     - Heroku - NodeJS|React https://heroku.com/
+    
 
 
+## Production URL
+https://stormy-lowlands-52734.herokuapp.com/ (ReactJS Apps)
+https://rocky-depths-82678.herokuapp.com/api/signatures (Node JS API)
 
-## SupportedBy
-1. @ndoteddy - Proffesional Developer
-2. @yohannes - Proffesional Developer 
-3. @agustinusdeddy - Proffesional Developer 
+## Join Us
+[@github:@realName]
+
+@ndoteddy : Hernando Ivan Teddy
+
+@deddyarief : Agustinus Deddy Arief Wibowo
+
+@yohannes : Yohannes
