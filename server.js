@@ -42,9 +42,9 @@ app.use(function(req, res) {
     // Website you wish to allow to connect
     res.header('Access-Control-Allow-Origin', '*');
     // Request methods you wish to allow
-    res.header('Access-Control-Allow-Methods', 'GET,POST');
+    res.header('Access-Control-Allow-Methods', 'GET,POST,OPTIONS');
     // Request headers you wish to allow
-    res.header('Access-Control-Allow-Headers', 'X-Requested-With,content-type');
+    res.header('Access-Control-Allow-Headers', 'X-Requested-With,Content-Type');
     // Set to true if you need the website to include cookies in the requests sent
     // to the API (e.g. in case you use sessions)
     res.header('Access-Control-Allow-Credentials', true);
@@ -56,4 +56,3 @@ app.use(function(req, res) {
 
 
 
-console.log('todo list RESTful API server started on: ' + port);
