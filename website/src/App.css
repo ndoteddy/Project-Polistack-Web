@@ -18,6 +18,14 @@
   font-size: 1.5em;
 }
 
+
+.App-Subtitle {
+  margin-bottom: 20px;
+  font-size:smaller;
+}
+
+
+
 .App-intro {
   font-size: large;
 }
@@ -26,3 +34,6 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+
+
