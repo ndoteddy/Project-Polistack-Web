@@ -1,46 +1,95 @@
-# Explore Node Js Apps
+# Guest Book Management System 
 
-Init repo by : @ndoaja
+Init repository by : @ndoteddy 2018
 
-Hi teman teman developer, ini adalah project simple untuk nodeJS
-terinspirasi dari beberapa software company di Singapore yang telah memakai reactJs sebagai alternative pembuatan
-mobile apps. Monggo di fork atau clone reponya
-
-Fokusnya untuk belajar bersama meningkatkan pengetahuan
-mengenai how to use nodejs? lalu bagaimana koneksinya dengan express engine 
-dan apakah dapat di wrap dengan API wrapping ?
+Hi all - this repository purposely created to learn
+current edge of  modern technology which is really happening
+now. I believe when u want to build startup or enter the
+workforce landscape u need to equip yourself with
+correct and good skillset otherwise its very difficult to enter the competition.
 
 
+Either your team have use agile or scrum is not an issue.
+You can extend or integrate this project or expand the behaviour
+using another tools as well
+
+
+So dont hesitate to contact us if you want to 
+discuss or share about
+development process, any struggle within etc
+I hope this repository can help you all to mastering
+technology stack with ease and use this skillset to 
+create your own apps.
+
+
+Current project  : Guest Management System V 0.0.1
+
+Level : Intermediate
+Licensing : MIT
+
+After u map this repository (either clone or fork)
+U can give us a feedback or post in issue section
+Follow us for other projects.
+
+Thanks
+@nandoteddy
 
 ## Table of Contents
-* [Objective](#Objective)
-* [Idea](#Idea)
-* [Platform](#Platform)
-* [Developer](#Developer)
+* [Objective](#objective)
+* [Idea](#idea)
+* [Prerequisite](#prerequisite)
+* [SupportedBy](#supportedby)
 
 ## Objective
 
-1. Untuk menerapkan nodeJs secara komprehensif
-2. End to end integration with backend ecosystem
-3. Utilisasi realtime programming
-4. Meningkatkan skillset
-5. Memahami automation dan bagaimana cara kerja continous integration
-
+1. Proficient on ReactJs Technology (FrontEnd)
+2. Proficient on NodeJs Technology (BackEnd)
+3. Proficient on MongoDb Database (Database)
+4. Proficient on Express (Middleware)
+5. Proficient on ReactNative for Mobile Technology (Mobile) 
+6. Proficient on Github Environment (Distributive Collaboration)
+7. Proficient on CI (Continous Integration) - e.g Jenkin/Teamcity
+8. Proficient on Shipping Good Quality Software - e.g Docker
+9. Able to utilize NPM 
+10. Able to understand ES2015 Language Standard for Javascript
 
 ## Idea
 
-Untuk saat ini idenya masih sederhana saja yang terpikir
-1. Apps untuk buku tamu (guest management book)
-2. Apps untuk monitoring value secara realtime
+Guest Management System
+- User able to input message 
+- Web Application able to show list of message from guest
+- Mobile Application  able to show list of message from guest
+- API Able to server cross domain exchange
+- Any idea ?? let me know
 
-## Platform
-1. NodeJs + Express Engine
-2. MongoDbCluster
-3. WebStorm (.ideaIntellij)
-4. Github
+## Prerequisite
+
+1. You need to Install following software/tools in order to run it well
+    - NPM with NodeJS - https://nodejs.org/en/
+    - Mongo DB  - https://www.mongodb.com/
+    - ReactJs - https://reactjs.org/
+    - Express - https://www.npmjs.com/package/express
+    - Git For Desktop - https://desktop.github.com/
+    - Git For Windows (Bash) - https://git-scm.com/download/win
+    - Axios - https://www.npmjs.com/package/axios
+    - Expo - https://expo.io/
+    - ReactNative - https://facebook.github.io/react-native/
+    - WebStorm - https://www.jetbrains.com/webstorm/
+    - Docker - https://www.docker.com/
+    - Gulp - https://gulpjs.com/
+    
+    
+1. Map this repository (Clone or Fork)
+3. Please inform us on Issue page if need anything help
+4. This project include backend and front end API as well
+Npm package manager will auto download for u according to this json package
+5. Hosting
+    - MongoDB - MLAB        https://mlab.com/home
+    - Heroku - NodeJS|React https://heroku.com/
 
 
-## Developer
-1. @nandoteddy 
-2. @yohannes
-3. @agustinusdeddy
+
+## SupportedBy
+1. @ndoteddy - Proffesional Developer
+2. @yohannes - Proffesional Developer 
+3. @agustinusdeddy - Proffesional Developer 
