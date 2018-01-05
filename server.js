@@ -1,13 +1,24 @@
+
+
 var express = require ('express'),
     app = express (),
     port = process.env.PORT || 3000,
     mongoose = require('mongoose'),
-    Task = require ('./api/models/todoListModel'),
+    Task = require ('./api/models/normalModel'),
     bodyParser=require('body-parser');
 
 // mongoose instance connection url connection
 mongoose.Promise = global.Promise;
-mongoose.connect('mongodb://localhost/Tododb');
+const url = 'mongodb://localhost/signatures';
+//====MONGOOSE CONNECT===//
+mongoose.connect(url, function (err, db) {
+    if (err) {
+        console.log('Unable to connect to the mongoDB server. Error:', err);
+    } else {
+        console.log('Connection established to', url);
+    }
+});
+//==========================//
 
 
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -23,6 +34,9 @@ app.listen(port);
 app.use(function(req, res) {
     res.status(404).send({url: req.originalUrl + ' not found'})
 });
+
+
+
 
 
 console.log('todo list RESTful API server started on: ' + port);

@@ -25,4 +25,25 @@ var TaskSchema = new Schema ({
 
     });
 
-module.exports = mongoose.model('Tasks',TaskSchema);
+
+
+var SignatureSchema = new Schema({
+    guestSignature: {
+        type: mongoose.Schema.Types.Mixed,
+        required: true,
+    },
+    message: {
+        type: mongoose.Schema.Types.Mixed,
+        required: true,
+    },
+});
+
+var taskSchema = mongoose.model('Tasks', TaskSchema,'Test');
+var SignatureSchema = mongoose.model('Signature', SignatureSchema,'Test');
+
+module.exports={
+
+    Tasks:taskSchema,
+    Signature:SignatureSchema
+
+};
