@@ -22,7 +22,7 @@ technology stack with ease and use this skillset to
 create your own apps.
 
 
-Current project  : Guest Management System V 0.0.1
+Current idea  : Guest Management System V 0.0.1
 
 Level : Intermediate
 Licensing : MIT
@@ -80,10 +80,16 @@ Guest Management System
     - Gulp - https://gulpjs.com/
     - Postman - https://www.getpostman.com/
     
-1. Map this repository (Clone or Fork)
-3. Please inform us on Issue page if need anything help
-4. This project include backend and front end API as well
-Npm package manager will auto download for u according to this json package
+2. Clone repository
+
+    Front End - > https://github.com/ndoteddy/Project-Polistack-Web
+    API - > https://github.com/ndoteddy/Project-Polistack-API
+    Mobile -> https://github.com/ndoteddy/Project-Polistack-Mobile
+3.  Npm package manager will auto download for u according to each json Package
+     - npm install
+
+4. Happy coding
+
 5. Hosting
     - MongoDB - MLAB        https://mlab.com/home
     - Heroku - NodeJS|React https://heroku.com/
