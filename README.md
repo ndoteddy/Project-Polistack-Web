@@ -1,4 +1,4 @@
-# Guest Book Management System 
+# Project-Polistack-Web
 
 Init repository by : @ndoteddy 2018
 
