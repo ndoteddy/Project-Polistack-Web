@@ -105,6 +105,6 @@ https://rocky-depths-82678.herokuapp.com/api/signatures (Node JS API)
 
 @ndoteddy : Hernando Ivan Teddy
 
-@deddyarief : Agustinus Deddy Arief Wibowo
+@deddyarief : Deddy Arief
 
 @yohannes : Yohannes
