@@ -6,7 +6,8 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --hot",
-    "build": "webpack -p"
+    "build": "webpack -p",
+    "lint": "node_modules/.bin/goodparts path/to/files/for/linting"
   },
   "author": "Hernando Ivan Teddy @ 2018",
   "license": "MIT",
@@ -15,6 +16,7 @@
     "babel-loader": "^7.1.2",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
+    "goodparts": "^1.2.1",
     "history": "^1.17.0",
     "html-webpack-plugin": "^2.30.1",
     "isomorphic-fetch": "^2.2.1",
@@ -24,5 +26,8 @@
     "react-router-dom": "^4.2.2",
     "webpack": "^3.10.0",
     "webpack-dev-server": "^2.11.1"
+  },
+  "devDependencies": {
+    "goodparts": "^1.2.1"
   }
 }
