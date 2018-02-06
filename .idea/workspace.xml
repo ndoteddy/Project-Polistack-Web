@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a599c838-616f-4fd1-9479-6bb3b7270714" name="Default" comment="">
+    <list default="true" id="a599c838-616f-4fd1-9479-6bb3b7270714" name="Default" comment="Update Readme 1.7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/Readme.MD" afterPath="$PROJECT_DIR$/Readme.MD" />
     </list>
@@ -23,7 +23,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="66">
-                <caret line="3" column="330" lean-forward="false" selection-start-line="3" selection-start-column="330" selection-end-line="3" selection-end-column="330" />
+                <caret line="3" column="622" lean-forward="false" selection-start-line="3" selection-start-column="622" selection-end-line="3" selection-end-column="622" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -346,11 +346,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517905258480</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Update Readme 1.7">
+      <created>1517905690722</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1517905690722</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48774000" />
+    <option name="totallyTimeSpent" value="49051000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
@@ -405,7 +412,8 @@
     <MESSAGE value="Update Readme 1.4" />
     <MESSAGE value="Update Readme 1.5" />
     <MESSAGE value="Update Readme 1.6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Readme 1.6" />
+    <MESSAGE value="Update Readme 1.7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Readme 1.7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -791,7 +799,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="66">
-            <caret line="3" column="330" lean-forward="false" selection-start-line="3" selection-start-column="330" selection-end-line="3" selection-end-column="330" />
+            <caret line="3" column="622" lean-forward="false" selection-start-line="3" selection-start-column="622" selection-end-line="3" selection-end-column="622" />
             <folding />
           </first_editor>
           <second_editor />
