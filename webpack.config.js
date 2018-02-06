@@ -5,7 +5,7 @@ var config = {
     entry: './App/core.js',
 
     output: {
-        path:'/',
+        path: path.resolve(__dirname, 'dist'),
         filename: 'bundle.js',
         publicPath: '/'
     },
