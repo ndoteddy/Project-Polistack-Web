@@ -32,6 +32,7 @@ LinkedIn :  https://www.linkedin.com/in/hernandoivanteddy/
 * [Prerequisite](#prerequisite)
 * [Contributing](#contributing)
 * [CurrentVersion](#currentversion)
+* [Collaborator](#collaborator)
 
 ## Objective
 
@@ -81,6 +82,13 @@ LinkedIn :  https://www.linkedin.com/in/hernandoivanteddy/
     Commit your changes (git commit -am 'Add some feature')
     Push to the branch (git push origin my-new-feature)
     Create new Pull Request
+
+    
+## Collaborator
+    Hernando Ivan Teddy
+    Agustinus Deddy
+    Yohannes
+    
 
 ## CurrentVersion
 
