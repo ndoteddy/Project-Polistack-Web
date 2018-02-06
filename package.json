@@ -5,7 +5,8 @@
   "description": "jsx-react-spa",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --hot"
+    "start": "webpack-dev-server --hot",
+    "build": "webpack -p"
   },
   "author": "Hernando Ivan Teddy @ 2018",
   "license": "MIT",
