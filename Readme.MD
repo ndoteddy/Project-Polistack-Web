@@ -31,7 +31,7 @@ LinkedIn :  https://www.linkedin.com/in/hernandoivanteddy/
 * [Objective](#objective)
 * [Prerequisite](#prerequisite)
 * [Current Version](#currentversion)
-* [Current Collaborator](#currentcollaborator)
+
 
 
 ## Objective
@@ -100,12 +100,5 @@ LinkedIn :  https://www.linkedin.com/in/hernandoivanteddy/
             - Setup Babel Transpiler With Webpack Hotloader
             - Init travis CLI - CI 
           
-## Current Collaborator
 
-@ndoteddy : Hernando Ivan Teddy
-
-@deddyarief : Agustinus Deddy Arief Wibowo
-
-@yohannes : Yohannes
- 
 
