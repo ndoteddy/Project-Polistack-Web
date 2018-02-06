@@ -1,6 +1,8 @@
 # Project Polistack
 
 
+[![HitCount](http://hits.dwyl.io/ndoteddy/https://github.com/ndoteddy/Project-Polistack-Web.git.svg)](http://hits.dwyl.io/ndoteddy/https://github.com/ndoteddy/Project-Polistack-Web.git)
+
 To learn and stay sharp with current edge technology is very difficult nowadays, even will be more difficult if we are not start now
 In this repository i have put my PoC so far that i have. For standard guideline u can use google and other resources
 to compare what i have done.
