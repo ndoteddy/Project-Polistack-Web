@@ -1,7 +1,7 @@
 # Project Polistack
 
 
-[![HitCount](http://hits.dwyl.io/ndoteddy/https://github.com/ndoteddy/Project-Polistack-Web.git.svg)](http://hits.dwyl.io/ndoteddy/https://github.com/ndoteddy/Project-Polistack-Web.git) [![Build Status](https://travis-ci.org/ndoteddy/Project-Polistack-Web.svg?branch=master)](https://travis-ci.org/ndoteddy/Project-Polistack-Web)
+[![HitCount](http://hits.dwyl.io/ndoteddy/https://github.com/ndoteddy/Project-Polistack-Web.git.svg)](http://hits.dwyl.io/ndoteddy/https://github.com/ndoteddy/Project-Polistack-Web.git) [![Build Status](https://travis-ci.org/ndoteddy/Project-Polistack-Web.svg?branch=master)](https://travis-ci.org/ndoteddy/Project-Polistack-Web) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ndoteddy/Project-Polistack-Web/issues)
 
 ## Background
 To learn and stay sharp with current edge technology is very challenging nowadays.
