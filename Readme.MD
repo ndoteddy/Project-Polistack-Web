@@ -18,7 +18,6 @@ nando.teddy@gmail.com
 * [Objective](#objective)
 * [Prerequisite](#prerequisite)
 * [Online Site](#onlinesite)
-* [Production URL](#production-url)
 
 ## Objective
 
@@ -63,15 +62,7 @@ nando.teddy@gmail.com
 5. Hosting    
     - Heroku - NodeJS|React https://heroku.com/
 
-## Production URL
 
-https://shrouded-ridge-71313.herokuapp.com/
-    
-      (WEB _ ReactJS Website)
-
-https://desolate-taiga-45305.herokuapp.com/Event
-   
-      (API _ Node JS - Express)
 
  
  
