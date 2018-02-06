@@ -30,9 +30,8 @@ LinkedIn :  https://www.linkedin.com/in/hernandoivanteddy/
 ## Table of Contents
 * [Objective](#objective)
 * [Prerequisite](#prerequisite)
-* [Current Version](#currentversion)
-
-
+* [Contributing](#contributing)
+* [CurrentVersion](#currentversion)
 
 ## Objective
 
@@ -75,8 +74,15 @@ LinkedIn :  https://www.linkedin.com/in/hernandoivanteddy/
 
 5. Hosting    
     - Heroku - NodeJS | React https://heroku.com/
+    
+## Contributing
+    Fork it
+    Create your feature branch (git checkout -b my-new-feature)
+    Commit your changes (git commit -am 'Add some feature')
+    Push to the branch (git push origin my-new-feature)
+    Create new Pull Request
 
-## Current Version
+## CurrentVersion
 
 0.0.3 - > Add Feature
             
