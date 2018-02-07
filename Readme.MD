@@ -109,7 +109,8 @@ e-mail : nando.teddy@gmail.com
             - Dependencies
             - Setup Bootstrap Layout
             - Setup Babel Transpiler With Webpack Hotloader
-            - Init travis CLI - CI 
+            - Init travis CLI - CI -
+            - VCS Checkout 
           
 
 
