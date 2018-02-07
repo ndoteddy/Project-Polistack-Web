@@ -7,7 +7,9 @@
   "scripts": {
     "start": "webpack-dev-server --hot",
     "build": "webpack -p",
-    "lint": "node_modules/.bin/goodparts path/to/files/for/linting"
+    "lint": "node_modules/.bin/goodparts path/to/files/for/linting",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "author": "Hernando Ivan Teddy @ 2018",
   "license": "MIT",
@@ -25,9 +27,11 @@
     "react-router": "^4.2.0",
     "react-router-dom": "^4.2.2",
     "webpack": "^3.10.0",
-    "webpack-dev-server": "^2.11.1"
+    "webpack-dev-server": "^2.11.1",
+    "snyk": "^1.69.6"
   },
   "devDependencies": {
     "goodparts": "^1.2.1"
-  }
+  },
+  "snyk": true
 }
