@@ -81,11 +81,8 @@ e-mail : nando.teddy@gmail.com
     Create new Pull Request
 
     
-## Collaborator
-    Hernando Ivan Teddy
-    Agustinus Deddy
-    Yohannes
-    
+## Contributor
+    List of our contributor [contributors](https://github.com/ndoteddy/Project-Polistack-Web/graphs/contributors)
 
 ## CurrentVersion
 
