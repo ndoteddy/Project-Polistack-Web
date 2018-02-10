@@ -1,7 +1,7 @@
 # Project Polistack
 
 
-[![HitCount](http://hits.dwyl.io/ndoteddy/https://github.com/ndoteddy/Project-Polistack-Web.git.svg)](http://hits.dwyl.io/ndoteddy/https://github.com/ndoteddy/Project-Polistack-Web.git) [![Build Status](https://travis-ci.org/ndoteddy/Project-Polistack-Web.svg?branch=master)](https://travis-ci.org/ndoteddy/Project-Polistack-Web) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ndoteddy/Project-Polistack-Web/issues) [![devDependency Status](https://david-dm.org/ndoteddy/Project-Polistack-Web.svg)](https://david-dm.org/ndoteddy/Project-Polistack-Web) [![JavaScript Style Guide: Good Parts](https://img.shields.io/badge/code%20style-goodparts-brightgreen.svg?style=flat)](https://github.com/ndoteddy/Project-Polistack-Web/oodparts "JavaScript The Good Parts") 
+[![HitCount](http://hits.dwyl.io/ndoteddy/https://github.com/ndoteddy/Project-Polistack-Web.git.svg)](http://hits.dwyl.io/ndoteddy/https://github.com/ndoteddy/Project-Polistack-Web.git) [![Build Status](https://travis-ci.org/ndoteddy/Project-Polistack-Web.svg?branch=master)](https://travis-ci.org/ndoteddy/Project-Polistack-Web) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ndoteddy/Project-Polistack-Web/issues) [![devDependency Status](https://david-dm.org/ndoteddy/Project-Polistack-Web.svg)](https://david-dm.org/ndoteddy/Project-Polistack-Web)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 [![bitHound Code](https://www.bithound.io/github/ndoteddy/Project-Polistack-Web/badges/code.svg)](https://www.bithound.io/github/ndoteddy/Project-Polistack-Web)
 
