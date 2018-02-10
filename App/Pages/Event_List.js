@@ -7,7 +7,8 @@ class EventList extends React.Component{
     {
         super();
         this.state = {
-            data: []
+            data: [],
+            isLoading :false
         };
     }
     componentDidMount() {
@@ -16,7 +17,7 @@ class EventList extends React.Component{
         {
             console.log('nandotest'+ findresponse)
             this.setState({
-                data: findresponse
+                data: findresponse,isLoading:true
             })
         })
     }
@@ -38,7 +39,13 @@ class EventList extends React.Component{
 
                     <div className="col-lg-9">
 
+                        {   this.state.isLoading  ?  null :  <img src="https://loading.io/spinners/wave/lg.wave-ball-preloader.gif" />}
+
+
                       {
+
+
+
 
                         this.state.data.map((dynamicData) =>
                             <div className="card mt-4">
