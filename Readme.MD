@@ -27,7 +27,6 @@ e-mail : nando.teddy@gmail.com
 * [Prerequisite](#prerequisite)
 * [Contributing](#contributing)
 * [CurrentVersion](#currentversion)
-* [Contributing](#Contributing)
 
 ## Objective
 
@@ -70,16 +69,13 @@ e-mail : nando.teddy@gmail.com
 
 5. Hosting    
     - Heroku - NodeJS | React https://heroku.com/
-    
+        
 ## Contributing
     Fork it
     Create your feature branch (git checkout -b my-new-feature)
     Commit your changes (git commit -am 'Add some feature')
     Push to the branch (git push origin my-new-feature)
     Create new Pull Request
-
-    
-## Contributing
 See [Contributing](CONTRIBUTING.md) and 
 List of our contributor [Contributors](https://github.com/ndoteddy/Project-Polistack-Web/graphs/contributors)
 
