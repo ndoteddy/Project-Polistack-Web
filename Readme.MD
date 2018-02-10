@@ -76,8 +76,7 @@ e-mail : nando.teddy@gmail.com
     Commit your changes (git commit -am 'Add some feature')
     Push to the branch (git push origin my-new-feature)
     Create new Pull Request
-See [Contributing](CONTRIBUTING.md) and 
-List of our contributor [Contributors](https://github.com/ndoteddy/Project-Polistack-Web/graphs/contributors)
+See [Contributing](CONTRIBUTING.md) and  List of our contributor here [Contributors](https://github.com/ndoteddy/Project-Polistack-Web/graphs/contributors)
 
    
 ## CurrentVersion
