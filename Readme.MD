@@ -26,7 +26,7 @@ e-mail : nando.teddy@gmail.com
 * [Objective](#objective)
 * [Prerequisite](#prerequisite)
 * [Contributing](#contributing)
-* [CurrentVersion](#currentversion)
+* [CurrentVersion](#currentversion
 
 
 ## Objective
@@ -78,6 +78,7 @@ e-mail : nando.teddy@gmail.com
     Push to the branch (git push origin my-new-feature)
     Create new Pull Request
 See [Contributing](CONTRIBUTING.md) and  List of our contributor here [Contributors](https://github.com/ndoteddy/Project-Polistack-Web/graphs/contributors)
+
 
    
 ## CurrentVersion
