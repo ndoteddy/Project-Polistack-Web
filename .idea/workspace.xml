@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a599c838-616f-4fd1-9479-6bb3b7270714" name="Default" comment="">
+    <list default="true" id="a599c838-616f-4fd1-9479-6bb3b7270714" name="Default" comment="0.0.4 - Branch Special For Enhance Loader and Polibot">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/App/Pages/Event_Create.js" afterPath="$PROJECT_DIR$/App/Pages/Event_Create.js" />
       <change beforePath="$PROJECT_DIR$/Readme.MD" afterPath="$PROJECT_DIR$/Readme.MD" />
@@ -270,7 +270,7 @@
       <workItem from="1517972396318" duration="572000" />
       <workItem from="1517978468194" duration="5087000" />
       <workItem from="1517995791521" duration="599000" />
-      <workItem from="1518235038510" duration="7655000" />
+      <workItem from="1518235038510" duration="7628000" />
     </task>
     <task id="LOCAL-00001" summary="EVENT PLANNER 2018 @Hernando Ivan Teddy">
       <created>1517892181597</created>
@@ -486,11 +486,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69666000" />
+    <option name="totallyTimeSpent" value="69639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16041666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -581,8 +580,7 @@
     <MESSAGE value="0.0.4 - Master First - Put Chatbot and Fix Loader" />
     <MESSAGE value="0.0.4 - Branch Special For Enhance Loader and Polibot" />
     <MESSAGE value="0.0.4 - Branch Special For Enhance Loader and Polibot V2" />
-    <MESSAGE value="0.0.4 - Check Linting and Update BitHound Badges" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.0.4 - Check Linting and Update BitHound Badges" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.0.4 - Branch Special For Enhance Loader and Polibot V2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
