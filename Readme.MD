@@ -84,8 +84,14 @@ e-mail : nando.teddy@gmail.com
 ## Contributor
     List of our contributor [contributors](https://github.com/ndoteddy/Project-Polistack-Web/graphs/contributors)
 
+   
 ## CurrentVersion
 
+0.0.4 - > Polibot + State Loader
+            
+            - Event Polibot -> Using React Polibot 
+            - Event State Loader
+            
 0.0.3 - > Add Feature
             
             - Event Create -> Post API 
