@@ -28,6 +28,7 @@ e-mail : nando.teddy@gmail.com
 * [Contributing](#contributing)
 * [CurrentVersion](#currentversion)
 
+
 ## Objective
 
 1. Create Event Planner System
@@ -85,6 +86,7 @@ See [Contributing](CONTRIBUTING.md) and  List of our contributor here [Contribut
             
             - Event Polibot -> Using React Polibot 
             - Event State Loader
+            - Add Milestone
             
 0.0.3 - > Add Feature
             
