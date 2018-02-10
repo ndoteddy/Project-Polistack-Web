@@ -1,8 +1,7 @@
 # Project Polistack
 
 
-[![HitCount](http://hits.dwyl.io/ndoteddy/https://github.com/ndoteddy/Project-Polistack-Web.git.svg)](http://hits.dwyl.io/ndoteddy/https://github.com/ndoteddy/Project-Polistack-Web.git) [![Build Status](https://travis-ci.org/ndoteddy/Project-Polistack-Web.svg?branch=master)](https://travis-ci.org/ndoteddy/Project-Polistack-Web) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ndoteddy/Project-Polistack-Web/issues) [![devDependency Status](https://david-dm.org/ndoteddy/Project-Polistack-Web.svg)](https://david-dm.org/ndoteddy/Project-Polistack-Web) [![JavaScript Style Guide: Good Parts](https://img.shields.io/badge/code%20style-goodparts-brightgreen.svg?style=flat)](https://github.com/ndoteddy/Project-Polistack-Web/oodparts "JavaScript The Good Parts") 
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)  
+[![HitCount](http://hits.dwyl.io/ndoteddy/https://github.com/ndoteddy/Project-Polistack-Web.git.svg)](http://hits.dwyl.io/ndoteddy/https://github.com/ndoteddy/Project-Polistack-Web.git) [![Build Status](https://travis-ci.org/ndoteddy/Project-Polistack-Web.svg?branch=master)](https://travis-ci.org/ndoteddy/Project-Polistack-Web) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ndoteddy/Project-Polistack-Web/issues) [![devDependency Status](https://david-dm.org/ndoteddy/Project-Polistack-Web.svg)](https://david-dm.org/ndoteddy/Project-Polistack-Web) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![bitHound Code](https://www.bithound.io/github/ndoteddy/Project-Polistack-Web/badges/code.svg)](https://www.bithound.io/github/ndoteddy/Project-Polistack-Web)
 
 ## Background
 Nowadays, to learn and stay sharp with current edge of technology is very challenging.
@@ -19,17 +18,16 @@ You can use this repository and join with me to create a community.Sharing is ca
 
 Wanna discuss or collaborate together kindly Drop a message 
 
+author : nando teddy
+
 e-mail : nando.teddy@gmail.com
-
-
-
 
 ## Table of Contents
 * [Objective](#objective)
 * [Prerequisite](#prerequisite)
 * [Contributing](#contributing)
 * [CurrentVersion](#currentversion)
-* [Collaborator](#collaborator)
+* [Contributing](#Contributing)
 
 ## Objective
 
@@ -81,14 +79,18 @@ e-mail : nando.teddy@gmail.com
     Create new Pull Request
 
     
-## Collaborator
-    Hernando Ivan Teddy
-    Agustinus Deddy
-    Yohannes
-    
+## Contributing
+See [Contributing](CONTRIBUTING.md) and 
+List of our contributor [Contributors](https://github.com/ndoteddy/Project-Polistack-Web/graphs/contributors)
 
+   
 ## CurrentVersion
 
+0.0.4 - > Polibot + State Loader
+            
+            - Event Polibot -> Using React Polibot 
+            - Event State Loader
+            
 0.0.3 - > Add Feature
             
             - Event Create -> Post API 
