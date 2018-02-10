@@ -12,7 +12,7 @@ We plan to use Microservices (Service Oriented Architecture) - so all module
 will have less dependency and with React Component it makes system can be extend or reuse easily.
 Off course with API we can integrate it With Mobile apps as well. (Either native or ReactNative) 
 
-Current objective : **Event Planner v0.0.3**
+Current objective : **Event Planner v0.0.4**
 
 You can use this repository and join with me to create a community.Sharing is caring.
 
@@ -26,8 +26,7 @@ e-mail : nando.teddy@gmail.com
 * [Objective](#objective)
 * [Prerequisite](#prerequisite)
 * [Contributing](#contributing)
-* [CurrentVersion](#currentversion)
-* [Contributing](#Contributing)
+* [CurrentVersion](#currentversion
 
 ## Objective
 
@@ -54,7 +53,7 @@ e-mail : nando.teddy@gmail.com
 2. Clone or Fork This repository
 
 
-    v0.0.3 - > https://github.com/ndoteddy/Project-Polistack-Web
+    v0.0.4 - > https://github.com/ndoteddy/Project-Polistack-Web
     
 
     
@@ -70,18 +69,15 @@ e-mail : nando.teddy@gmail.com
 
 5. Hosting    
     - Heroku - NodeJS | React https://heroku.com/
-    
+        
 ## Contributing
     Fork it
     Create your feature branch (git checkout -b my-new-feature)
     Commit your changes (git commit -am 'Add some feature')
     Push to the branch (git push origin my-new-feature)
     Create new Pull Request
+See [Contributing](CONTRIBUTING.md) and  List of our contributor here [Contributors](https://github.com/ndoteddy/Project-Polistack-Web/graphs/contributors)
 
-    
-## Contributing
-See [Contributing](CONTRIBUTING.md) and 
-List of our contributor [Contributors](https://github.com/ndoteddy/Project-Polistack-Web/graphs/contributors)
 
    
 ## CurrentVersion
