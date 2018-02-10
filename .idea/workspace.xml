@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a599c838-616f-4fd1-9479-6bb3b7270714" name="Default" comment="0.0.4 - Master First - Put Chatbot and Fix Loader">
+    <list default="true" id="a599c838-616f-4fd1-9479-6bb3b7270714" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/App/Pages/Event_Create.js" afterPath="$PROJECT_DIR$/App/Pages/Event_Create.js" />
       <change beforePath="$PROJECT_DIR$/Readme.MD" afterPath="$PROJECT_DIR$/Readme.MD" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,44 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Readme.MD" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Readme.MD">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="57">
-                <caret line="75" column="15" lean-forward="true" selection-start-line="75" selection-start-column="15" selection-end-line="75" selection-end-column="15" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Event_List.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App/Pages/Event_List.js">
+      <file leaf-file-name="Event_Create.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/App/Pages/Event_Create.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="51" column="30" lean-forward="true" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sidebar.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App/Component/Sidebar.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="17" column="46" lean-forward="false" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="core.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App/core.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            <state relative-caret-position="457">
+              <caret line="176" column="1" lean-forward="true" selection-start-line="176" selection-start-column="1" selection-end-line="176" selection-end-column="1" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -118,7 +86,6 @@
         <option value="$PROJECT_DIR$/App/Action.js" />
         <option value="$PROJECT_DIR$/App/Action/Action.js" />
         <option value="$PROJECT_DIR$/App/Action/EventAction.js" />
-        <option value="$PROJECT_DIR$/App/Pages/Event_Create.js" />
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/package.json" />
@@ -134,6 +101,7 @@
         <option value="$PROJECT_DIR$/App/Component/Sidebar.js" />
         <option value="$PROJECT_DIR$/App/core.js" />
         <option value="$PROJECT_DIR$/Readme.MD" />
+        <option value="$PROJECT_DIR$/App/Pages/Event_Create.js" />
       </list>
     </option>
   </component>
@@ -154,7 +122,7 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -213,7 +181,34 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="GMS_JSX_REACT" type="cbb8eebc:String" user="GMS_JSX_REACT" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="GMS_JSX_REACT" type="cbb8eebc:String" user="GMS_JSX_REACT" />
+              <item name="App" type="cbb8eebc:String" user="App" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="GMS_JSX_REACT" type="cbb8eebc:String" user="GMS_JSX_REACT" />
+              <item name="App" type="cbb8eebc:String" user="App" />
+              <item name="Component" type="cbb8eebc:String" user="Component" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="GMS_JSX_REACT" type="cbb8eebc:String" user="GMS_JSX_REACT" />
+              <item name="App" type="cbb8eebc:String" user="App" />
+              <item name="Pages" type="cbb8eebc:String" user="Pages" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -275,7 +270,7 @@
       <workItem from="1517972396318" duration="572000" />
       <workItem from="1517978468194" duration="5087000" />
       <workItem from="1517995791521" duration="599000" />
-      <workItem from="1518235038510" duration="6662000" />
+      <workItem from="1518235038510" duration="7655000" />
     </task>
     <task id="LOCAL-00001" summary="EVENT PLANNER 2018 @Hernando Ivan Teddy">
       <created>1517892181597</created>
@@ -473,14 +468,29 @@
       <option name="project" value="LOCAL" />
       <updated>1518241040519</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="0.0.4 - Branch Special For Enhance Loader and Polibot">
+      <created>1518241806239</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1518241806239</updated>
+    </task>
+    <task id="LOCAL-00030" summary="0.0.4 - Branch Special For Enhance Loader and Polibot V2">
+      <created>1518242173928</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1518242173928</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68673000" />
+    <option name="totallyTimeSpent" value="69666000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16041666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -569,7 +579,10 @@
     <MESSAGE value="Fix Readme file" />
     <MESSAGE value="Put Static For Heroku Deployment" />
     <MESSAGE value="0.0.4 - Master First - Put Chatbot and Fix Loader" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.0.4 - Master First - Put Chatbot and Fix Loader" />
+    <MESSAGE value="0.0.4 - Branch Special For Enhance Loader and Polibot" />
+    <MESSAGE value="0.0.4 - Branch Special For Enhance Loader and Polibot V2" />
+    <MESSAGE value="0.0.4 - Check Linting and Update BitHound Badges" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.0.4 - Check Linting and Update BitHound Badges" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -622,7 +635,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="64" column="15" lean-forward="true" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="63" />
-          <folding />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -698,7 +713,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1606">
           <caret line="73" column="31" lean-forward="false" selection-start-line="73" selection-start-column="31" selection-end-line="73" selection-end-column="31" />
-          <folding />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -862,29 +879,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/Pages/Event_Create.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2684">
-          <caret line="64" column="15" lean-forward="true" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/App/Component/Header.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="46" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App/Pages/Event_Polibot.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-74">
-          <caret line="71" column="29" lean-forward="false" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -922,14 +921,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/App/Pages/Event_Polibot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Readme.MD">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="57">
-            <caret line="75" column="15" lean-forward="true" selection-start-line="75" selection-start-column="15" selection-end-line="75" selection-end-column="15" />
+          <first_editor relative-caret-position="154">
+            <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Pages/Event_Create.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="176" column="1" lean-forward="true" selection-start-line="176" selection-start-column="1" selection-end-line="176" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

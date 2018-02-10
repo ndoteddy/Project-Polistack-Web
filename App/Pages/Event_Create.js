@@ -116,28 +116,8 @@ class EventCreate extends React.Component{
                                                    className="form-control"
                                                    placeholder="e.g : Olympic Stadium"
                                             />
-
                                         </div>
-
                                     </div>
-                                   {/* <div className="form-row">
-                                        <div className="form-group col-md-3">
-                                            <label >Start At</label>
-                                            <input type="text" className="form-control" id="inputTime" placeholder="Date/Time"/>
-                                        </div>
-                                        <div className="form-group col-md-3">
-                                            <label >-</label>
-                                            <input type="text" className="form-control" id="inputTime" placeholder="Date/Time"/>
-                                        </div>
-                                        <div className="form-group col-md-3">
-                                            <label >End At</label>
-                                            <input type="text" className="form-control" id="inputTime" placeholder="Date/Time"/>
-                                        </div>
-                                        <div className="form-group col-md-3">
-                                            <label >-</label>
-                                            <input type="text" className="form-control" id="inputTime" placeholder="Date/Time"/>
-                                        </div>
-                                    </div>*/}
                                     <div className="form-group">
                                         <label >Address</label>
                                         <input type="text"
@@ -159,12 +139,7 @@ class EventCreate extends React.Component{
                                             onChange={this.handleDescriptionChange}
                                             placeholder=" e.g : Free 1 Soft Drink"
                                         />
-
-
-
                                     </div>
-
-
                                     <div className="form-group">
                                         <label >Organizer Name</label>
 
@@ -177,8 +152,6 @@ class EventCreate extends React.Component{
                                                placeholder="e.g: Orega Inc"
                                         />
                                     </div>
-
-
                                    <div className="form-group">
                                         <label >Total Guest</label>
                                        <input type="text"
@@ -190,16 +163,11 @@ class EventCreate extends React.Component{
                                               placeholder="e.g: 150"
                                        />
                                     </div>
-
                                     <button type="submit" className="btn btn-primary" >Create</button>
                                     <button type="submit" className="btn btn-warning">Cancel</button>
-
                             </form>
                         </section>
-
                     </div>
-
-
                     </div>
                 <br/>
                 </div>
