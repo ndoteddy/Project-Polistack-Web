@@ -16,9 +16,10 @@ export default class Sidebar extends React.Component{
               <div className="col-lg-3">
                   <h1 className="my-4">ORGANIZER</h1>
                   <div className="list-group">
-                      <a href="/Event/Create" className="list-group-item">Create Event</a>
-                      <a href="/Event/List" className="list-group-item">List Event</a>
-                      <a href="/Event/Polibot" className="list-group-item">Polibot</a>
+                      <Link to="/Event/Create" className="list-group-item" activeClassName='active' >Create Event</Link>
+                      <Link to="/Event/List"  className="list-group-item" activeClassName='active' >List Event</Link>
+                      <Link to="/Event/Polibot" className="list-group-item" activeClassName='active' >Polibot</Link>
+
 
                   </div>
                   <br/>

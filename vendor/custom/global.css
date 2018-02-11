@@ -1,3 +1,8 @@
 .kdZMGe {
     width:100% !important;
 }
+
+
+ .active {
+     color: rgba(0, 7, 255, 0.31)
+ }
