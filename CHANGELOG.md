@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## MASTER VERSION 
 
+## [0.0.6]
+### Added
+- Production URL (Successfully Deploy To Heroku)
+
 ## [0.0.5]
 ### Changed
 - Refactor External CSS, Image, and Javascript To Internal React Loader
@@ -13,6 +17,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Migrate Changelog Information To Specific File
 - Refactor React Router Implementation to Hash History
 - Refactor Package.Json for Webpack Image Loader (Downgrade Version) - Travis CLI is not Supported 
+### Remove
+- .idea Folder
 
 ## [0.0.4]
 ### Added

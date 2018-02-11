@@ -14,7 +14,10 @@ Off course with API we can integrate it With Mobile apps as well. (Either native
 
 Current objective : **Polistack Event Planner**
 
-You can use this repository and join with me to create a community.Sharing is caring.
+You can open URL below to see how it looks like
+
+    Production URL : 
+    https://secure-basin-93086.herokuapp.com/#/Event/Polibot
 
 Wanna discuss or collaborate together kindly Drop a message 
 
