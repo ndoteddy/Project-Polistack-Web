@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [0.0.6]
 ### Added
 - Production URL (Successfully Deploy To Heroku)
+- Set Static Deploy Using Heroku Buildpacks
 
 ## [0.0.5]
 ### Changed

@@ -17,7 +17,7 @@ Current objective : **Polistack Event Planner**
 You can open URL below to see how it looks like
 
     Production URL : 
-    https://secure-basin-93086.herokuapp.com/#/Event/Polibot
+    https://secure-basin-93086.herokuapp.com/#
 
 Wanna discuss or collaborate together kindly Drop a message 
 
