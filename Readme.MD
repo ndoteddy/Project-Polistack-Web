@@ -12,7 +12,7 @@ We plan to use Microservices (Service Oriented Architecture) - so all module
 will have less dependency and with React Component it makes system can be extend or reuse easily.
 Off course with API we can integrate it With Mobile apps as well. (Either native or ReactNative) 
 
-Current objective : **Event Planner v0.0.4**
+Current objective : **Polistack Event Planner**
 
 You can use this repository and join with me to create a community.Sharing is caring.
 
@@ -26,7 +26,7 @@ e-mail : nando.teddy@gmail.com
 * [Objective](#objective)
 * [Prerequisite](#prerequisite)
 * [Contributing](#contributing)
-* [CurrentVersion](#currentversion)
+* [Changelog](#changelog)
 
 
 ## Objective
@@ -54,7 +54,7 @@ e-mail : nando.teddy@gmail.com
 2. Clone or Fork This repository
 
 
-    v0.0.5 - > https://github.com/ndoteddy/Project-Polistack-Web
+    https://github.com/ndoteddy/Project-Polistack-Web
     
 
     
@@ -81,40 +81,7 @@ See [Contributing](CONTRIBUTING.md) and  List of our contributor here [Contribut
 
 
    
-## CurrentVersion
-
-0.0.5 - > Fix Loader (Image,CSS,Internal React Loader)
-    
-            - All Migrate To Internal React Loader
-            
-0.0.4 - > Polibot + State Loader
-            
-            - Event Polibot -> Using React Polibot 
-            - Event State Loader
-            - Add Milestone
-            
-0.0.3 - > Add Feature
-            
-            - Event Create -> Post API 
-            - Event List   -> Get  API
-            - Dashboard - * Ongoing
-          
-0.0.2 - > Framing and Component Extraction
-            
-            - Home Pages
-            - Event Pages
-            - Navigation Routing With React Router
-            - Linting - Code Climate - Dependency Config
-          
-
-0.0.1 - > Init
-            
-            - NPM Install
-            - Dependencies
-            - Setup Bootstrap Layout
-            - Setup Babel Transpiler With Webpack Hotloader
-            - Init travis CLI - CI -
-            - VCS Checkout 
-          
+## Changelog
+See detail of Project Changes on  [Changelog](CHANGELOG.md)
 
 
