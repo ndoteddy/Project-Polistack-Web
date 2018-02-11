@@ -353,11 +353,9 @@
       <workItem from="1517978468194" duration="5087000" />
       <workItem from="1517995791521" duration="599000" />
       <workItem from="1518235038510" duration="10283000" />
-<<<<<<< HEAD
-      <workItem from="1518317332225" duration="7305000" />
-=======
+
       <workItem from="1518317332225" duration="5238000" />
->>>>>>> 24da9ddda392e423e7c191f737ef1c0d47d56e3f
+
     </task>
     <task id="LOCAL-00001" summary="EVENT PLANNER 2018 @Hernando Ivan Teddy">
       <created>1517892181597</created>
@@ -646,33 +644,13 @@
       <option name="project" value="LOCAL" />
       <updated>1518322575084</updated>
     </task>
-<<<<<<< HEAD
-    <task id="LOCAL-00042" summary="0.0.5 - Ver">
-      <created>1518323991371</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1518323991371</updated>
-    </task>
-    <task id="LOCAL-00043" summary="0.0.5 - Downgrade image webpack loader">
-      <created>1518324569220</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1518324569220</updated>
-    </task>
-    <option name="localTasksCounter" value="44" />
-    <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79599000" />
-=======
+
     <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="77532000" />
->>>>>>> 24da9ddda392e423e7c191f737ef1c0d47d56e3f
+
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
