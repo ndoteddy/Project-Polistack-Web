@@ -6,7 +6,6 @@ import ChatBot from 'react-simple-chatbot';
 class Review extends React.Component {
     constructor(props) {
         super(props);
-
         this.state = {
             name: '',
             gender: '',
@@ -17,7 +16,6 @@ class Review extends React.Component {
     componentWillMount() {
         const { steps } = this.props;
         const { name, gender, age } = steps;
-
         this.setState({ name, gender, age });
     }
 
@@ -66,7 +64,6 @@ class Event_Polibot extends React.Component{
                     <br/><br/><br/>
                     <div className="row">
                     <Sidebar/>
-
                     <div className="col-lg-9">
                         <br/><br/><br/>
                         <ChatBot
@@ -175,13 +172,10 @@ class Event_Polibot extends React.Component{
                         <br/>
                     </div>
                     </div>
-
-
                 </div>
-
             </div>
-
         );
     }
 }
+
 export default Event_Polibot

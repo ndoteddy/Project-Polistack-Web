@@ -1,35 +1,23 @@
 import React from "react";
 import {Link} from "react-router-dom";
 
-
 class HomePage extends React.Component{
-    constructor()
-    {
+
+    constructor(){
         super();
         this.state = { title : "Welcome"};
-
     }
-
-    changeTitle(title)
-    {
-        this.setState({title});
-    }
-
 
     render() {
-        const title="Welcome";
         return (
             <div>
                 <header className="masthead text-center text-white">
                     <div className="masthead-content">
-
-
                             <h2 className="masthead-subheading mb-0">Need Planner For Your Event ?</h2>
-
                         <Link to='/Event/Create' className="btn btn-primary btn-xl rounded-pill mt-5">CREATE AN EVENT</Link>
                     </div>
-
                 </header>
+
                 <section>
                     <div className="container">
                         <div className="row align-items-center">
@@ -86,9 +74,9 @@ class HomePage extends React.Component{
                         </div>
                     </div>
                 </section>
-
             </div>
         );
     }
 }
+
 export default HomePage
