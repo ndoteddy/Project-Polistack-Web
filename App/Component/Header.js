@@ -1,18 +1,10 @@
 import React from "react";
 import {Link} from "react-router-dom";
 
-
 export default class Header extends React.Component{
-    handleChange(e)
-    {
-        const title = e.target.value;
-        this.props.changeTitle(title);
-    }
     render() {
-
         return (
           <div>
-
               <nav className="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top">
                   <div className="container">
                       <Link to='/' className="navbar-brand">POLISTACK</Link>
@@ -20,26 +12,13 @@ export default class Header extends React.Component{
                           <span className="navbar-toggler-icon"></span>
                       </button>
                       <div className="collapse navbar-collapse" id="navbarResponsive">
-
                           <ul className="navbar-nav ml-auto">
-
-
                                   <li><Link to='/' className="nav-link">Home</Link></li>
-
-
                                   <li><Link to='/Event/Create' className="nav-link">Event</Link></li>
-
-
-
                           </ul>
                       </div>
-
                   </div>
               </nav>
-
-
-
-
           </div>
         );
     }

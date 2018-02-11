@@ -1,7 +1,6 @@
 import React from "react";
 import Sidebar from "../Component/Sidebar";
 
-
 class EventCreate extends React.Component{
     constructor()
     {
@@ -24,8 +23,6 @@ class EventCreate extends React.Component{
         this.handleTotalGuestChange = this.handleTotalGuestChange .bind(this);
         this.handleSubmit = this.handleSubmit.bind(this);
     }
-
-
 
     handleTitleChange(e) {
         this.setState({
@@ -58,9 +55,7 @@ class EventCreate extends React.Component{
         });
     }
 
-
-
-    handleSubmit(data) {
+    handleSubmit() {
         //fetch('http://localhost:3000/Event', {
         fetch('https://desolate-taiga-45305.herokuapp.com/Event', {
             method: 'post',
@@ -79,24 +74,19 @@ class EventCreate extends React.Component{
         });
     }
     render() {
-
         return (
             <div>
                 <div className="container">
                     <br/><br/><br/>
                     <div className="row">
                     <Sidebar/>
-
                     <div className="col-lg-9">
                         <section>
-
-
                             <form onSubmit={this.handleSubmit}>
                                 <br/><br/><br/>
                                     <div className="form-row">
                                         <div className="form-group col-md-6">
                                             <label >Event Title</label>
-
                                             <input type="text"
                                                    id="txtEventTitle"
                                                    required="required"
@@ -142,7 +132,6 @@ class EventCreate extends React.Component{
                                     </div>
                                     <div className="form-group">
                                         <label >Organizer Name</label>
-
                                         <input type="text"
                                                id="txtOrganizer"
                                                required="required"
@@ -175,4 +164,5 @@ class EventCreate extends React.Component{
         );
     }
 }
+
 export default EventCreate

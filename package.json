@@ -6,10 +6,10 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --hot",
-    "build": "webpack -p",
     "lint": "node_modules/.bin/goodparts path/to/files/for/linting",
     "snyk-protect": "snyk protect",
-    "prepublish": "npm run snyk-protect"
+    "prepublish": "npm run snyk-protect",
+    "build": "webpack -p"
   },
   "author": "Hernando Ivan Teddy @ 2018",
   "license": "MIT",
