@@ -54,7 +54,7 @@ e-mail : nando.teddy@gmail.com
 2. Clone or Fork This repository
 
 
-    v0.0.4 - > https://github.com/ndoteddy/Project-Polistack-Web
+    v0.0.5 - > https://github.com/ndoteddy/Project-Polistack-Web
     
 
     
@@ -83,6 +83,10 @@ See [Contributing](CONTRIBUTING.md) and  List of our contributor here [Contribut
    
 ## CurrentVersion
 
+0.0.5 - > Fix Loader (Image,CSS,Internal React Loader)
+    
+            - All Migrate To Internal React Loader
+            
 0.0.4 - > Polibot + State Loader
             
             - Event Polibot -> Using React Polibot 
