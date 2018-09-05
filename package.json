@@ -37,7 +37,7 @@
     "react-simple-chatbot": "^0.2.9",
     "snyk": "^1.69.6",
     "style-loader": "^0.20.1",
-    "webpack": "^3.10.0",
+    "webpack": "^4.0.0",
     "webpack-dev-server": "^2.11.1"
   },
   "devDependencies": {
