@@ -9,7 +9,8 @@
     "lint": "node_modules/.bin/goodparts path/to/files/for/linting",
     "snyk-protect": "snyk protect",
     "prepublish": "npm run snyk-protect",
-    "build": "webpack -p"
+    "build": "webpack -p",
+    "prepare": "npm run snyk-protect"
   },
   "author": "Hernando Ivan Teddy @ 2018",
   "license": "MIT",
@@ -35,7 +36,7 @@
     "react-router": "^4.2.0",
     "react-router-dom": "^4.2.2",
     "react-simple-chatbot": "^0.2.9",
-    "snyk": "^1.69.6",
+    "snyk": "^1.104.1",
     "style-loader": "^0.20.1",
     "webpack": "^3.10.0",
     "webpack-dev-server": "^2.11.1"
