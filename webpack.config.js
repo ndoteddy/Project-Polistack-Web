@@ -16,15 +16,14 @@ var config = {
         historyApiFallback: true
     },
     module: {
-        loaders: [
-
+        rules: [
             {
                 test: /\.js?$/,
                 exclude: /node_modules/,
                 loader: 'babel-loader',
 
                 query: {
-                    presets: ['es2015', 'react']
+                    "presets": ["@babel/preset-env", "@babel/preset-react"]
                 }
             },
             {
@@ -56,6 +55,17 @@ var config = {
             jQuery: 'jquery',
             $: 'jquery',
             jquery: 'jquery'
+        }),
+        new webpack.LoaderOptionsPlugin({
+            // test: /\.xxx$/, // may apply this only for some modules
+            options: {
+                use: {
+                    loader: "babel-loader",
+                    query: {
+                        "presets": ["@babel/preset-env", "@babel/preset-react"]
+                    }
+                }
+            }
         })
     ],
     externals: {
@@ -63,5 +73,6 @@ var config = {
         //  on the global var jQuery
         "jquery": "jQuery"
     }
+    
 }
 module.exports = config;
