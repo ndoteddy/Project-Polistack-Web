@@ -7,8 +7,4 @@ regards
 Hernando Ivan Teddy
 January 2018
 
-List of people that have join this repo to enhance and make it better
-1. Agustinus Deddy Arief Wibowo
-2. Yohannes
-3. how about you >>?
 
