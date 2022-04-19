@@ -33,7 +33,7 @@
     "react-router": "^5.0.1",
     "react-router-dom": "^5.0.1",
     "react-simple-chatbot": "^0.6.1",
-    "save": "^2.4.0",
+    "save": "^2.5.0",
     "snyk": "^1.174.1",
     "style-loader": "^0.23.1",
     "styled-components": "^4.3.1",
